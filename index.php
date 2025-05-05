@@ -15,7 +15,6 @@
     <link rel="manifest" href="./Favicons/site.webmanifest">
     <!-- CSS -->
     <link rel="stylesheet" href="./css/style.css" />
-    <link rel="icon" type="image/png" sizes="180x190" href="">
     <!-- Title -->
     <title>Guess The Number</title>
   </head>
