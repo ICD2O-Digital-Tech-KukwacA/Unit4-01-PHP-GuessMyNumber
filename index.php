@@ -22,7 +22,7 @@
     <?php
       echo "<h3>Guess The Number</h3>";
     ?>
-    <form action="./result.php" method="post" target="result">
+    <form action="./results.php" method="post" target="result">
       <label for="userGuess">Guess the Number</label>
       <input type="number" id="userGuess" placeholder="Enter the Number..." name="userGuess">
       <br><br>
