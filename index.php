@@ -26,7 +26,7 @@
       <label for="userGuess">Guess the Number</label>
       <input type="number" id="userGuess" placeholder="Enter the Number..." name="userGuess">
       <br><br>
-      <input type="submit" value="Guess Number">
+      <input type="submit" value="Display Result">
     </form>
     
     <iframe id="result" name="result">
